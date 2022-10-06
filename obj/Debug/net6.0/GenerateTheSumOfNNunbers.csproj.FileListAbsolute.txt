@@ -1,0 +1,15 @@
+/home/saint/Desktop/GenerateTheSumOfNNunbers/bin/Debug/net6.0/GenerateTheSumOfNNunbers
+/home/saint/Desktop/GenerateTheSumOfNNunbers/bin/Debug/net6.0/GenerateTheSumOfNNunbers.deps.json
+/home/saint/Desktop/GenerateTheSumOfNNunbers/bin/Debug/net6.0/GenerateTheSumOfNNunbers.runtimeconfig.json
+/home/saint/Desktop/GenerateTheSumOfNNunbers/bin/Debug/net6.0/GenerateTheSumOfNNunbers.dll
+/home/saint/Desktop/GenerateTheSumOfNNunbers/bin/Debug/net6.0/GenerateTheSumOfNNunbers.pdb
+/home/saint/Desktop/GenerateTheSumOfNNunbers/obj/Debug/net6.0/GenerateTheSumOfNNunbers.csproj.AssemblyReference.cache
+/home/saint/Desktop/GenerateTheSumOfNNunbers/obj/Debug/net6.0/GenerateTheSumOfNNunbers.GeneratedMSBuildEditorConfig.editorconfig
+/home/saint/Desktop/GenerateTheSumOfNNunbers/obj/Debug/net6.0/GenerateTheSumOfNNunbers.AssemblyInfoInputs.cache
+/home/saint/Desktop/GenerateTheSumOfNNunbers/obj/Debug/net6.0/GenerateTheSumOfNNunbers.AssemblyInfo.cs
+/home/saint/Desktop/GenerateTheSumOfNNunbers/obj/Debug/net6.0/GenerateTheSumOfNNunbers.csproj.CoreCompileInputs.cache
+/home/saint/Desktop/GenerateTheSumOfNNunbers/obj/Debug/net6.0/GenerateTheSumOfNNunbers.dll
+/home/saint/Desktop/GenerateTheSumOfNNunbers/obj/Debug/net6.0/refint/GenerateTheSumOfNNunbers.dll
+/home/saint/Desktop/GenerateTheSumOfNNunbers/obj/Debug/net6.0/GenerateTheSumOfNNunbers.pdb
+/home/saint/Desktop/GenerateTheSumOfNNunbers/obj/Debug/net6.0/GenerateTheSumOfNNunbers.genruntimeconfig.cache
+/home/saint/Desktop/GenerateTheSumOfNNunbers/obj/Debug/net6.0/ref/GenerateTheSumOfNNunbers.dll
